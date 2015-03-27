@@ -18,6 +18,7 @@ def main():
 # Build the commandline parser for the script and return a map for the entered
 # options.  In addition, setup logging based on the user's entered log level.
 # Specific options are documented inline.
+#
 ################################################################################
 
 def configure_command_line_arguments():
